@@ -1,0 +1,9 @@
+button {
+    padding: 5px;
+    cursor: pointer;
+    background-color: #131313;
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border:white 1px solid ;
+    width: 130px;
+}
