@@ -1,27 +1,16 @@
-import React from 'react'
-import ReactDOM from 'react-dom/client'
-import App from './App.jsx'
-import './index.css'
-import Cards from './Cards.jsx'
-import MyButton from './MyButton.jsx'
+import React from "react";
+import ReactDOM from "react-dom/client";
+import App from "./App.jsx";
+import "./index.css";
+import Cards from "./Cards.jsx";
+import MyButton from "./MyButton.jsx";
 
-
-
-
-
-ReactDOM.createRoot(document.getElementById('root')).render(
+ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     <App />
-    <div className='Principal'> 
-    <Cards /> 
-    <Cards /> 
-    <Cards /> 
-    <Cards /> 
+    <Cards />
+    <div className="Final">
+      <MyButton />
     </div>
-    <div className='Final'> 
-    <MyButton />
-    </div>
-  </React.StrictMode>,
-)
-
-
+  </React.StrictMode>
+);
