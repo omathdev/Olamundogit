@@ -1,0 +1,20 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #131313;
+}
+
+.Principal {
+    display: flex;
+    margin-top: 4%;
+    gap: 3%;
+    justify-content: center;
+}
+
+#card2  {
+    background-image: url(hilda2.jpg);   
+   }

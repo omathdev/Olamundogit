@@ -1,15 +1,10 @@
 import "./App.css"
 
-const App=() => {
+function App() {
   return (
-    <> 
-    <div>
-       <h1 className="Titulo">Ola Mundo</h1>
-    </div>
-    <div>
-      <h2>Ola Mundo</h2>
-    </div>
-
+    <>
+     <h1>Quem está assistindo?</h1>
+    
     </>
   )
 }

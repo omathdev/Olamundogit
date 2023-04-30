@@ -1,10 +1,8 @@
-
-.Titulo{
-  background-color: blue;
-
-}
-
-p {
-background: blue;
-
+h1{
+  display: flex;
+  justify-content: center;
+  margin-top: 25%;
+  letter-spacing: .2rem; 
+  color: aliceblue;
+  font-family: 'Roboto', sans-serif;
 }
