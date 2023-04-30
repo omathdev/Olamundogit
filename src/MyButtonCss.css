@@ -1,3 +1,7 @@
+*{
+    box-sizing: border-box;    
+    }
+    
 button {
     padding: 5px;
     cursor: pointer;
@@ -6,4 +10,13 @@ button {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     border:white 1px solid ;
     width: 130px;
+    opacity: 30%;
+}
+
+button:hover {
+    opacity: 100%;
+}
+
+#TextId {
+    position: absolute;
 }

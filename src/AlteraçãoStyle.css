@@ -1,0 +1,7 @@
+.Alt {
+    position: absolute;
+    z-index: 1;
+    top: 110px;
+    left:400px ;
+    color: aliceblue;
+}
