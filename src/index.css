@@ -8,13 +8,22 @@ body {
     background-color: #131313;
 }
 
-.prime {
+.prime  {
     
     display: flex;
     margin-top: 2.5%;
     gap: 3%;
     justify-content: center;
 }
+
+.alte {
+    display: flex;
+    margin-top: 6%;
+    gap: 3%;
+    justify-content: flex-end;
+}
+
+
 
 #card2  {
     background-image: url(hilda2.jpg);   

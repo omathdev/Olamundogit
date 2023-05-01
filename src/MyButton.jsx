@@ -8,8 +8,10 @@ function MyButton(){
     function sumir() {
         let inp = document.querySelector('.Alt') ;
 
-      inp.style.display = 'none'
+      inp.style.display = 'flex'
 } 
+
+
 
     return (
         <> 

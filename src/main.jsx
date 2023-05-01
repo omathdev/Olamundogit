@@ -19,7 +19,9 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <div className='Final'> 
     <MyButton />
     </div>
+    <div className='alte'> 
     <Alteração />
+    </div>
   </React.StrictMode>,
 )
 
